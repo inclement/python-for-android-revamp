@@ -1,3 +1,7 @@
+# Development of this revamp has moved to the revamp branch of the
+  [Kivy python-for-android repository](https://github.com/kivy/python-for-android/tree/revamp)
+
+
 # P4A experiment
 
 This is an experimental Python for Android APK builder based on the
