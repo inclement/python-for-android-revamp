@@ -1,5 +1,6 @@
-# Development of this revamp has moved to the revamp branch of the
-  [Kivy python-for-android repository](https://github.com/kivy/python-for-android/tree/revamp)
+# Development of this revamp has moved to the revamp branch of the Kivy python-for-android repository
+
+[Click here](https://github.com/kivy/python-for-android/tree/revamp) to go to it.
 
 
 # P4A experiment
